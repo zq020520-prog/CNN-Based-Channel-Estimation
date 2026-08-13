@@ -127,7 +127,6 @@ Performance can be visualized using:
 * Training loss curve
 * CNN-based estimation versus conventional methods
 
-
 ## License
 
 This project is for research and educational purposes.
