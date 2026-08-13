@@ -97,7 +97,7 @@ The performance is evaluated under different SNR conditions to investigate the r
 
 ## Technologies
 
-* Python / MATLAB
+* Python
 * CNN
 * Deep Learning
 * Wireless Channel Modeling
@@ -127,14 +127,6 @@ Performance can be visualized using:
 * Training loss curve
 * CNN-based estimation versus conventional methods
 
-## Applications
-
-CNN-based channel estimation can be applied to modern wireless communication systems, including:
-
-* OFDM systems
-* MIMO systems
-* 5G / 6G wireless communications
-* Intelligent communication systems
 
 ## License
 
